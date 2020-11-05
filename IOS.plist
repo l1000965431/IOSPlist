@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://****/**/tue_test.ipa(ipa文件的访问地址)</string>
+                   <string>http://10.1.102.63:1234/open/IPA/2020-08-07_18:38:07_develop_T07/WonderLand_adhoc_T07/Unity-iPhone.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>图片的地址</string>
+                   <string></string>
                </dict>
       <dict>
                    <key>kind</key>
@@ -27,15 +27,15 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>图片的地址</string>
+                   <string></string>
               </dict>
            </array>
            <key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.xx.xx(bundleID需要ipa中需要保持一致)</string>
+               <string>com.game.wonderland</string>
                <key>bundle-version</key>
-               <string>1.0(CFBundleVersion需要和ipa中的保持一致)</string>
+               <string>1.2.348</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
